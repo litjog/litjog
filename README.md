@@ -4,7 +4,7 @@ I am litjog from Indonesia :indonesia:
 
 I am a programming enthusiast :man_technologist:
 
-### Interest :sparkles::
+### Interest :sparkles:
 
  - Javascript
  - Typescript
@@ -14,7 +14,7 @@ I am a programming enthusiast :man_technologist:
  - MySQL
  - CSS
 
-### Get in touch :email::
+### Get in touch :email:
 
 - litjog@gmail.com
 - [Github](https://github.com/litjog)
