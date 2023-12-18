@@ -1,10 +1,12 @@
-## Hello world :wave:
+# Hello world :wave:
+
+[comment]: # (
 
 I am litjog from Indonesia :indonesia:
 
 I am a programming enthusiast :man_technologist:
 
-### Interest :bulb:
+## Interest :bulb:
 
  - Javascript
  - Typescript
@@ -14,11 +16,8 @@ I am a programming enthusiast :man_technologist:
  - MySQL
  - CSS
 
-### Get in touch :email:
-
-- litjog@gmail.com
-- [Github](https://github.com/litjog)
-- [Instagram](https://instagram.com/litjog)
-- [Twitter](https://twitter.com/litjog)
+## Get in touch :email:
 
 Stay awesome :sunglasses:
+
+)
