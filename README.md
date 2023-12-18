@@ -1,6 +1,6 @@
 # Hello world :wave:
 
-[comment]: # (
+<!--
 
 I am litjog from Indonesia :indonesia:
 
@@ -20,4 +20,4 @@ I am a programming enthusiast :man_technologist:
 
 Stay awesome :sunglasses:
 
-)
+-->
